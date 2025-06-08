@@ -1,0 +1,825 @@
+{
+    "tiers": [
+      {
+        "groups": [
+          {
+            "num_to_select": 7,
+            "trades": [
+              {
+                "max_uses": 10000,
+                "wants": [
+                  {
+                    "item": "minecraft:chest",
+                    "quantity": 1
+                  },{
+                    "item": "minecraft:white_dye",
+                    "quantity": 1
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:spawn_egg",
+                    "functions":[{"function":"set_actor_id","id":"fmb:white_present"}],
+                     "quantity":8
+                  }
+                ]
+              },
+              {
+                "max_uses": 10000,
+                "wants": [
+                  {
+                    "item": "minecraft:chest",
+                    "quantity": 1
+                  },{
+                    "item": "minecraft:red_dye",
+                    "quantity": 1
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:spawn_egg",
+                    "functions":[{"function":"set_actor_id","id":"fmb:red_present"}],
+                     "quantity":8
+                  }
+                ]
+              }, {
+                "max_uses": 10000,
+                "wants": [
+                  {
+                    "item": "minecraft:chest",
+                    "quantity": 1
+                  },{
+                    "item": "minecraft:blue_dye",
+                    "quantity": 1
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:spawn_egg",
+                    "functions":[{"function":"set_actor_id","id":"fmb:blue_present"}],
+                     "quantity":8
+                  }
+                ]
+              }, {
+                "max_uses": 10000,
+                "wants": [
+                  {
+                    "item": "minecraft:chest",
+                    "quantity": 1
+                  },{
+                    "item": "minecraft:green_dye",
+                    "quantity": 1
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:spawn_egg",
+                    "functions":[{"function":"set_actor_id","id":"fmb:green_present"}],
+                     "quantity":8
+                  }
+                ]
+              },
+              {
+                "max_uses": 10000,
+                "wants": [
+                  {
+                    "item": "minecraft:chest",
+                    "quantity": 1
+                  },{
+                    "item": "minecraft:purple_dye",
+                    "quantity": 1
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:spawn_egg",
+                    "functions":[{"function":"set_actor_id","id":"fmb:purple_present"}],
+                     "quantity":8
+                  }
+                ]
+              },
+              {
+                "max_uses": 10000,
+                "wants": [
+                  {
+                    "item": "minecraft:chest",
+                    "quantity": 1
+                  },{
+                    "item": "minecraft:pink_dye",
+                    "quantity": 1
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:spawn_egg",
+                    "functions":[{"function":"set_actor_id","id":"fmb:pink_present"}],
+                     "quantity":8
+                  }
+                ]
+              },
+              {
+                "max_uses": 10000,
+                "wants": [
+                  {
+                    "item": "minecraft:chest",
+                    "quantity": 1
+                  },{
+                    "item": "minecraft:yellow_dye",
+                    "quantity": 1
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:spawn_egg",
+                    "functions":[{"function":"set_actor_id","id":"fmb:yellow_present"}],
+                     "quantity":8
+                  }
+                ]
+              }
+            
+            ]
+          },
+          {
+            "num_to_select": 9,
+            "trades": [
+                {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:clay_ball",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:white_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:white_ornament"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:clay_ball",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:orange_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:orange_ornament"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:clay_ball",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:light_blue_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:light_blue_ornament"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:clay_ball",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:red_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:red_ornament"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:clay_ball",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:blue_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:blue_ornament"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, 
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:clay_ball",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:yellow_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:yellow_ornament"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:clay_ball",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:green_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:green_ornament"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:clay_ball",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:purple_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:purple_ornament"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:clay_ball",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:black_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:black_ornament"}],
+                         "quantity":8
+                      }
+                    ]
+                  }
+            
+            ]
+          },
+          {
+            "num_to_select": 20,
+            "trades": [
+                {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:bread",
+                        "quantity": 4
+                      },{
+                        "item": "minecraft:sugar",
+                        "quantity": 4
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:gingerbread_house_1"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:bread",
+                        "quantity": 4
+                      },{
+                        "item": "minecraft:sugar",
+                        "quantity": 4
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:gingerbread_house_2"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:bread",
+                        "quantity": 4
+                      },{
+                        "item": "minecraft:sugar",
+                        "quantity": 4
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:gingerbread_house_3"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:flower_pot",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:cocoa_beans",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:hot_chocolate"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:porkchop",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:coal",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:ham_leg"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:flower_pot",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:emerald",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:holiday_tea"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:cake",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:sweet_berries",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:berry_cake"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:cake",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:cocoa_beans",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:chocolate_cake"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:cake",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:apple",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:fruit_cake"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:heavy_weighted_pressure_plate",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:cookie",
+                        "quantity": 8
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:plate_o_cookies"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:cookie",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:sugar",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:candy_cookie"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:sugar",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:glass",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:candy_jar"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:sugar",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:green_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:green_candy"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:sugar",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:blue_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:blue_candy"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:sugar",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:pink_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:pink_candy"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:sugar",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:yellow_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:yellow_candy"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:sugar",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:red_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:red_candy"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:sugar",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:purple_dye",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:purple_candy"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:sugar",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:honey_bottle",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:candy_corn"}],
+                         "quantity":8
+                      }
+                    ]
+                  },
+                    {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:cocoa_beans",
+                        "quantity": 4
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:chocolate_bar"}],
+                         "quantity":8
+                      }
+                    ]
+                  }
+
+            
+            ]
+          },
+          {
+            "num_to_select": 7,
+            "trades": [
+                {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:sweet_berries",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:bone_meal",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:berry_bush"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:coal",
+                        "quantity": 8
+                      },{
+                        "item": "minecraft:red_bundle",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:bag_o_coal"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:snow",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:glass",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:snow_globe"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:spruce_sapling",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:book",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:tree_book_pile"}],
+                         "quantity":8
+                      }
+                    ]
+                  },  {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:bell",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:holiday_bell"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:snow",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:carrot",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:snowman_1"}],
+                         "quantity":8
+                      }
+                    ]
+                  }, {
+                    "max_uses": 10000,
+                    "wants": [
+                      {
+                        "item": "minecraft:snow",
+                        "quantity": 1
+                      },{
+                        "item": "minecraft:carrot",
+                        "quantity": 1
+                      }
+                    ],
+                    "gives": [
+                      {
+                        "item": "minecraft:spawn_egg",
+                        "functions":[{"function":"set_actor_id","id":"fmb:snowman_2"}],
+                         "quantity":8
+                      }
+                    ]
+                  }
+            
+            ]
+          }
+        ]
+      }
+    ]
+  }
